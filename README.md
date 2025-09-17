@@ -1,3 +1,2 @@
 # first_repo
-git_training
-Need to put stuff in gere
+Need to put stuff in here
